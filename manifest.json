@@ -1,0 +1,8 @@
+{
+  "derniereVersion": "1.8.0",
+  "derniereVersionCode": 1008000,
+  "versionMinSupportee": "1.8.0",
+  "versionMinSupporteeCode": 1008000,
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.8.0/infirlib-1.8.0.apk",
+  "changelog": "- Placeholder initial : ce manifeste sera republié par la CI au prochain tag vX.Y.Z sur infirlib (issue #271)."
+}
