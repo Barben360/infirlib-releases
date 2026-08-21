@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.8.0",
-  "derniereVersionCode": 1008000,
-  "versionMinSupportee": "1.8.0",
-  "versionMinSupporteeCode": 1008000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.8.0/infirlib-1.8.0.apk",
-  "changelog": "- Placeholder initial : ce manifeste sera republié par la CI au prochain tag vX.Y.Z sur infirlib (issue #271)."
+  "derniereVersion": "1.9.0",
+  "derniereVersionCode": 1009000,
+  "versionMinSupportee": "1.0.0",
+  "versionMinSupporteeCode": 1000000,
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.9.0/infirlib-1.9.0.apk",
+  "changelog": "- Merge pull request #279 from Barben360/269-migration-proxy-ors\n- 🔥 Retirer la chaîne ARB orpheline indicateurCleOrsAucune\n- 🏗️ Migrer les appels itinéraires vers le proxy infirlib-ors-proxy (closes #269)\n- Merge pull request #278 from Barben360/273-verification-version-lancement\n- 🐛 Régénérer fournisseurs.g.dart après le commentaire de enDebogage\n- ✅ Retirer les exemptions de fraîcheur payées par la republication de l'issue #273\n- 🐛 Exempter les builds de débogage de la vérification de version au lancement\n- ✨ Vérifier la version au lancement et bloquer les versions trop anciennes (closes #273)\n- Merge pull request #277 from Barben360/271-depot-public-releases\n- ✨ Publier les releases sur un second dépôt public infirlib-releases (closes #271)\n- Merge pull request #276 from Barben360/272-telechargement-installation-apk\n- ✅ Répercuter REQUEST_INSTALL_PACKAGES dans l'inventaire de build-apk.sh\n- 🔀 Fusionner main (#270 mergée)\n- Merge pull request #275 from Barben360/270-abandon-apk-32-bits\n- 🔀 Fusionner main (correctif vocabulaire §12)\n- 🔀 Fusionner main (correctif vocabulaire §12)\n- 🐛 Couvrir le spec OTA par la règle de vocabulaire (§12)\n- 🐛 Catcher IllegalArgumentException dans declencherInstallationApk\n- 🔒️ Écrire l'installeur d'APK en natif plutôt qu'avec un paquet tiers\n- 🔒️ Remplacer flutter_app_installer par android_package_installer\n- ✨ Ajouter le téléchargement et l'installation d'un APK de mise à jour (closes #272)\n- 📝 Corriger le README sur l'abandon du 32-bit oublié par #270\n- 🔥 Abandonner la variante 32 bits (armeabi-v7a) de l'APK release (closes #270)\n- Merge pull request #274 from Barben360/docs/mise-a-jour-ota-publique\n- 📝 Spécifier la distribution publique et la mise à jour OTA in-app\n- Merge pull request #268 from Barben360/266-reprise-captures-lieux-tiers\n- ✅ Reprendre les sept captures T4 périmées par le gating T6 (issue #266)"
 }
