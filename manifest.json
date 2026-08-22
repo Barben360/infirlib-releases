@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.13.0",
-  "derniereVersionCode": 1013000,
+  "derniereVersion": "1.13.1",
+  "derniereVersionCode": 1013001,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.13.0/infirlib-1.13.0.apk",
-  "changelog": "- Retirer --split-per-abi, qui décalait le versionCode réel de +2000 (#284)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.13.1/infirlib-1.13.1.apk",
+  "changelog": "- 🐛 Permettre de renommer un soin — fiche patient et bibliothèque de soins (#287)"
 }
