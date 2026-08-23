@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.13.1",
-  "derniereVersionCode": 1013001,
+  "derniereVersion": "1.14.0",
+  "derniereVersionCode": 1014000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.13.1/infirlib-1.13.1.apk",
-  "changelog": "- 🐛 Permettre de renommer un soin — fiche patient et bibliothèque de soins (#287)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.14.0/infirlib-1.14.0.apk",
+  "changelog": "- Permettre d'ajouter à nouveau un patient déjà dans une tournée existante (#294)\n- 🐛 Faire suivre le courriel du patient renommé, basculer @exemple.fr (#296)\n- 📝 Garantir la mise à jour d'infirlib-site à chaque changement visible (#292)\n- 🔥 Retirer la Release dupliquée sur infirlib (#290)\n- Captures documentaires automatisées pour infirlib-site (issue #288) (#289)"
 }
