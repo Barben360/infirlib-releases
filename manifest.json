@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.15.0",
-  "derniereVersionCode": 1015000,
+  "derniereVersion": "1.16.0",
+  "derniereVersionCode": 1016000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.15.0/infirlib-1.15.0.apk",
-  "changelog": "- Afficher les soins effectués à côté de chaque patient dans le bloc Patients vus (#302)\n- Permettre de masquer la liste des soins dans le bloc Transmissions (#301)\n- chore: update auto-assign-issue workflow\n- 🐛 Accorder les quatre permissions avant les captures peuple (closes #297) (#298)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.16.0/infirlib-1.16.0.apk",
+  "changelog": "- ✨ Ajouter le médecin traitant d'un patient (#306)\n- Ajouter la pharmacie référente d'un patient (#305)"
 }
