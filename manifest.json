@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.16.0",
-  "derniereVersionCode": 1016000,
+  "derniereVersion": "1.17.0",
+  "derniereVersionCode": 1017000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.16.0/infirlib-1.16.0.apk",
-  "changelog": "- ✨ Ajouter le médecin traitant d'un patient (#306)\n- Ajouter la pharmacie référente d'un patient (#305)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.17.0/infirlib-1.17.0.apk",
+  "changelog": "- Ajouter le bandeau persistant de mise à jour en attente (#310)\n- ✨ Permettre d'annuler un statut de passage pendant le déroulé (closes #311) (#312)\n- Revérifier les mises à jour au retour au premier plan, sans interrompre une tournée (#309)"
 }
