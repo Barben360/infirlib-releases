@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.17.0",
-  "derniereVersionCode": 1017000,
+  "derniereVersion": "1.18.0",
+  "derniereVersionCode": 1018000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.17.0/infirlib-1.17.0.apk",
-  "changelog": "- Ajouter le bandeau persistant de mise à jour en attente (#310)\n- ✨ Permettre d'annuler un statut de passage pendant le déroulé (closes #311) (#312)\n- Revérifier les mises à jour au retour au premier plan, sans interrompre une tournée (#309)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.18.0/infirlib-1.18.0.apk",
+  "changelog": "- Fusionner « Absent » dans le menu de statut et clarifier les CTA d'édition (issue #315) (#317)\n- 📝 Résorber la dérive de documentation et factoriser deux duplications de code"
 }
