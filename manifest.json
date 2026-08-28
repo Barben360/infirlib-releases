@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.18.0",
-  "derniereVersionCode": 1018000,
+  "derniereVersion": "1.19.0",
+  "derniereVersionCode": 1019000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.18.0/infirlib-1.18.0.apk",
-  "changelog": "- Fusionner « Absent » dans le menu de statut et clarifier les CTA d'édition (issue #315) (#317)\n- 📝 Résorber la dérive de documentation et factoriser deux duplications de code"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.19.0/infirlib-1.19.0.apk",
+  "changelog": "- Ajouter les notes personnelles de tournée et de passage (closes #324) (#326)\n- Faire tourner Auto-assign issue sur le runner self-hosted (#327)\n- Ajouter un accès à la documentation depuis les réglages (closes #321) (#322)\n- Point ORS calls at ors.infirlib.fr (#320) (#323)\n- 💄 Cadrer les lignes adresse/soins éditables et verdir le crayon (#319)"
 }
