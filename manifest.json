@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.19.0",
-  "derniereVersionCode": 1019000,
+  "derniereVersion": "1.19.1",
+  "derniereVersionCode": 1019001,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.19.0/infirlib-1.19.0.apk",
-  "changelog": "- Ajouter les notes personnelles de tournée et de passage (closes #324) (#326)\n- Faire tourner Auto-assign issue sur le runner self-hosted (#327)\n- Ajouter un accès à la documentation depuis les réglages (closes #321) (#322)\n- Point ORS calls at ors.infirlib.fr (#320) (#323)\n- 💄 Cadrer les lignes adresse/soins éditables et verdir le crayon (#319)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.19.1/infirlib-1.19.1.apk",
+  "changelog": "- Regrouper les actions terminee de T4 dans un menu (closes #328) (#329)"
 }
