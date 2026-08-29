@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.20.0",
-  "derniereVersionCode": 1020000,
+  "derniereVersion": "1.20.1",
+  "derniereVersionCode": 1020001,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.20.0/infirlib-1.20.0.apk",
-  "changelog": "- 📝 Documenter le partage P2P direct entre appareils (closes #340) (#353)\n- 🚑️ Borner le jeton FCM dans l'authentification P2P (closes #351) (#356)\n- Nettoyer les fichiers temporaires du partage P2P et de l'export manuel (#352)\n- Repli manuel explicite et écran d'attente pour le partage P2P (#349)\n- 🐛 Corriger le débordement de la tuile passage à 200 % (closes #325) (#348)\n- Établir la connexion WebRTC P2P et transmettre le fichier de partage chiffré (closes #336) (#347)\n- 📸 Recapturer l'écran d'import avec les blocs médecin/pharmacie sur appareil (#346)\n- Authentifier l'appareil et enregistrer le jeton FCM au serveur de signalisation (closes #335) (#345)\n- ✨ Réconcilier le médecin traitant et la pharmacie référente à l'import (#344)\n- ✨ Demander POST_NOTIFICATIONS au point d'usage du partage à distance (closes #338) (#343)\n- Ajouter flutter_webrtc et le squelette du service de partage P2P (#341)\n- 📝 Documenter la confirmation légale HDS du partage P2P en construction (#342)\n- 🔧 Ignorer .worktrees/, la convention manuelle de worktree du dépôt\n- 🐛 Inclure les blocs hors-soin d'une tournée dans le partage Transmissions Tournée (#332)\n- 📝 Committer le plan d'implémentation médecin/pharmacie et réparer §12\n- 📝 Concevoir la fusion des catalogues médecin/pharmacie à l'import de partage"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.20.1/infirlib-1.20.1.apk",
+  "changelog": "- 🐛 Qualifier « Hors HH:MM–HH:MM » par le jour quand il diffère du passage (closes #358) (#359)"
 }
