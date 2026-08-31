@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.23.0",
-  "derniereVersionCode": 1023000,
+  "derniereVersion": "1.24.0",
+  "derniereVersionCode": 1024000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.23.0/infirlib-1.23.0.apk",
-  "changelog": "- 🐛 Corriger le délai de négociation P2P après revue indépendante (issue #366)\n- ✨ Ajouter l'outil manuel de bout en bout du partage P2P réel (issue #366)\n- 🐛 Borner l'attente de négociation d'etablirConnexion (issue #366)\n- 🐛 Tenir colleguesProvider vivant pendant la résolution de clé publique P2P (closes #386)\n- 📝 Préciser que le résultat natif tardif est simplement ignoré, pas rejoué (#357)\n- 📝 Documenter que .timeout() ne peut pas annuler l'appel MethodChannel natif sous-jacent (#357)\n- 🐛 Recentrer le correctif du blocage de #382 sur parametresGenerauxProvider\n- 🐛 Empêcher un blocage indéfini de « Générer l'export » (issue #382)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.24.0/infirlib-1.24.0.apk",
+  "changelog": "- 📸 Scripter la capture de la section Patients de l'export (issue #398) (#403)\n- 🐛 Corriger l'avertissement de portée du raccourci de partage patient unique (#402)\n- ✨ Partager un patient depuis sa fiche (closes #399) (#401)\n- ✨ Ajouter la sélection de patients au partage chiffré (closes #398) (#400)\n- 📝 Concevoir le partage sélectif d'un ou plusieurs patients (#397)\n- ✨ Scripter les captures des notes personnelles de la tournée"
 }
