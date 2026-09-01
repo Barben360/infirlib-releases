@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.24.2",
-  "derniereVersionCode": 1024002,
+  "derniereVersion": "1.25.0",
+  "derniereVersionCode": 1025000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.24.2/infirlib-1.24.2.apk",
-  "changelog": "- 🐛 Empiler EcranReceptionPartage sur la notification P2P (#415)\n- 🐛 Ordonner et dédoublonner les patients du texte de transmissions (#414)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.25.0/infirlib-1.25.0.apk",
+  "changelog": "- 🚸 Simplifier le flux de partage : retirer l'avertissement, fusionner génération/destination, nommer l'envoi terminé (#422)\n- ✨ Ajouter l'outil manuel de debug interactif du partage P2P réel (closes #417) (#421)\n- 🐛 Mettre en avant la tournée en cours plutôt que la prochaine (#418)"
 }
