@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.24.1",
-  "derniereVersionCode": 1024001,
+  "derniereVersion": "1.24.2",
+  "derniereVersionCode": 1024002,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.24.1/infirlib-1.24.1.apk",
-  "changelog": "- 🐛 Réconcilier l'indicateur P2P avec ce que la notification a déjà traité (closes #406) (#411)\n- 🔒️ Trois angles morts laissés par le correctif de #404 (closes #409) (#410)\n- 🐛 Empiler EcranReceptionPartage plutôt que remplacer la pile (closes #405) (#408)\n- 🐛 Ne plus perdre la première offre P2P entrante (closes #404) (#407)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.24.2/infirlib-1.24.2.apk",
+  "changelog": "- 🐛 Empiler EcranReceptionPartage sur la notification P2P (#415)\n- 🐛 Ordonner et dédoublonner les patients du texte de transmissions (#414)"
 }
