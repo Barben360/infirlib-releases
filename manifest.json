@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.25.0",
-  "derniereVersionCode": 1025000,
+  "derniereVersion": "1.26.0",
+  "derniereVersionCode": 1026000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.25.0/infirlib-1.25.0.apk",
-  "changelog": "- 🚸 Simplifier le flux de partage : retirer l'avertissement, fusionner génération/destination, nommer l'envoi terminé (#422)\n- ✨ Ajouter l'outil manuel de debug interactif du partage P2P réel (closes #417) (#421)\n- 🐛 Mettre en avant la tournée en cours plutôt que la prochaine (#418)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.26.0/infirlib-1.26.0.apk",
+  "changelog": "- Permettre de renommer un fichier associé à un patient (closes #425) (#427)\n- 🐛 Ne plus dédoublonner les patients vus/non vus du texte de transmissions (closes #424) (#426)"
 }
