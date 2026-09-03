@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.26.0",
-  "derniereVersionCode": 1026000,
+  "derniereVersion": "1.26.1",
+  "derniereVersionCode": 1026001,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.26.0/infirlib-1.26.0.apk",
-  "changelog": "- Permettre de renommer un fichier associé à un patient (closes #425) (#427)\n- 🐛 Ne plus dédoublonner les patients vus/non vus du texte de transmissions (closes #424) (#426)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.26.1/infirlib-1.26.1.apk",
+  "changelog": "- 🐛 Reprendre les antécédents et traitements dans le brouillon d'édition (closes #437)\n- 🔒️ Fermer la suppression de fichier arbitraire par intention forgée : chemin confiné et jeton de notification (closes #428, closes #434)"
 }
