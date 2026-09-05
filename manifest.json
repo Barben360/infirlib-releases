@@ -1,8 +1,8 @@
 {
-  "derniereVersion": "1.26.1",
-  "derniereVersionCode": 1026001,
+  "derniereVersion": "1.27.0",
+  "derniereVersionCode": 1027000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.26.1/infirlib-1.26.1.apk",
-  "changelog": "- 🐛 Reprendre les antécédents et traitements dans le brouillon d'édition (closes #437)\n- 🔒️ Fermer la suppression de fichier arbitraire par intention forgée : chemin confiné et jeton de notification (closes #428, closes #434)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.27.0/infirlib-1.27.0.apk",
+  "changelog": "- 🐛 Faire descendre jusqu'au service la clé de la ligne acceptée (closes #442) (#464)\n- 🐛 Protéger la réception P2P du cycle de vie et ramasser le fichier reçu (closes #440, closes #441, closes #436) (#461)\n- 🐛 Rattacher chaque chose entrante à l'échange auquel elle appartient (closes #445, closes #446, refs #442) (#462)\n- 🔒️ Poser la clé d'appelante du proxy ORS, sur le chemin proxy uniquement (#458)\n- ✅ Soumettre le design des tags de tournée à la règle de vocabulaire (#460)\n- 🔒️ Exiger un jeton émis par l'application pour ouvrir une tournée depuis son rappel (closes #435) (#447)\n- 📝 Référencer les issues du chaînage tags de tournée dans le design\n- 📝 Design des tags personnalisables sur les tournées\n- 🔒️ Séparer le domaine de signature du défi et enregistrer l'appareil sous session (closes #429) (#448)\n- 🐛 Attendre un accusé de réception avant d'écrire recu, et drainer le tampon avant de fermer (closes #432) (#444)\n- 🏗️ Remplacer les quatre champs d'état du récepteur P2P par une machine à états explicite (closes #430)\n- 🐛 N'ouvrir qu'une seule connexion de signalisation quand la notification est acceptée application visible (closes #431)\n- 🔒️ Refuser de signer un nonce qui n'a pas la longueur du défi du serveur (#429)"
 }
