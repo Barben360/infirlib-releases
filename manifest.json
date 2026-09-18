@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.28.2",
-  "derniereVersionCode": 1028002,
+  "derniereVersion": "1.29.0",
+  "derniereVersionCode": 1029000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.28.2/infirlib-1.28.2.apk",
-  "empreinteSha256Apk": "d08a86ed79df44cf7e9b30730ca61684aba67d5cbc7cd40418d5661958d07627",
-  "changelog": "- 🐛 Transmettre la localisation des adresses à l'import d'un partage (closes #548) (#550)\n- 🐛 Borner la décompression d'un partage pendant la matérialisation, jamais sur un majorant d'expansion (closes #547) (#549)\n- 📝 Design de la vue calendrier des tournées (semaine et mois) (#546)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.29.0/infirlib-1.29.0.apk",
+  "empreinteSha256Apk": "3bc1f44bb4b1186da3453927969d037b17f89f362d504846b9c9bdc260f7147a",
+  "changelog": "- 📝 Rejouer les captures de T3 et de E2, et ajouter les deux boîtes neuves de #553 et #554 (#558)\n- 🐛 Plafonner « Ordre de la tournée » sur la hauteur réellement offerte, pour garder la recherche de `T3` au-dessus du clavier (closes #552) (#555)\n- ✨ Archiver, désarchiver et supprimer un patient depuis sa fiche (closes #553) (#557)\n- ✨ Détecter un dossier existant à la création d'un patient, et laisser trancher (closes #554) (#556)"
 }
