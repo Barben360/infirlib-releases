@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.29.0",
-  "derniereVersionCode": 1029000,
+  "derniereVersion": "1.30.0",
+  "derniereVersionCode": 1030000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.29.0/infirlib-1.29.0.apk",
-  "empreinteSha256Apk": "3bc1f44bb4b1186da3453927969d037b17f89f362d504846b9c9bdc260f7147a",
-  "changelog": "- 📝 Rejouer les captures de T3 et de E2, et ajouter les deux boîtes neuves de #553 et #554 (#558)\n- 🐛 Plafonner « Ordre de la tournée » sur la hauteur réellement offerte, pour garder la recherche de `T3` au-dessus du clavier (closes #552) (#555)\n- ✨ Archiver, désarchiver et supprimer un patient depuis sa fiche (closes #553) (#557)\n- ✨ Détecter un dossier existant à la création d'un patient, et laisser trancher (closes #554) (#556)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.30.0/infirlib-1.30.0.apk",
+  "empreinteSha256Apk": "7f157656515d7be34471e3f750e3e398d29a72d60eb00f04582971f26de255cb",
+  "changelog": "- 🐛 Refuser un cadre noir et ancrer le menu de T1 sur le contenu (closes #562) (#568)\n- ✨ Corriger le marqueur d'aujourd'hui et épingler l'en-tête des jours (closes #565) (#567)\n- ✨ Poser la grille mois, le filtre par tag et la création datée (closes #545) (#566)\n- ✨ Poser la grille semaine et sa feuille de détail (closes #544) (#563)\n- ✨ Poser la bascule Liste / Semaine / Mois de T1 et mémoriser le mode choisi (closes #543) (#561)\n- ✨ Poser le domaine calendaire, finDernierPassage et la palette d'états mesurée (closes #542) (#559)"
 }
