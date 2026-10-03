@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.30.0",
-  "derniereVersionCode": 1030000,
+  "derniereVersion": "1.31.0",
+  "derniereVersionCode": 1031000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.30.0/infirlib-1.30.0.apk",
-  "empreinteSha256Apk": "7f157656515d7be34471e3f750e3e398d29a72d60eb00f04582971f26de255cb",
-  "changelog": "- 🐛 Refuser un cadre noir et ancrer le menu de T1 sur le contenu (closes #562) (#568)\n- ✨ Corriger le marqueur d'aujourd'hui et épingler l'en-tête des jours (closes #565) (#567)\n- ✨ Poser la grille mois, le filtre par tag et la création datée (closes #545) (#566)\n- ✨ Poser la grille semaine et sa feuille de détail (closes #544) (#563)\n- ✨ Poser la bascule Liste / Semaine / Mois de T1 et mémoriser le mode choisi (closes #543) (#561)\n- ✨ Poser le domaine calendaire, finDernierPassage et la palette d'états mesurée (closes #542) (#559)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.31.0/infirlib-1.31.0.apk",
+  "empreinteSha256Apk": "ac14a2e97bf927d861a0b203616724e38e05ff06cd2fcede2e8043836502e116",
+  "changelog": "- ✨ Vider la recherche dès qu'un patient est coché à la création de tournée (closes #573) (#574)\n- 🐛 Refuser un corps de partage sans fin de répertoire ZIP (closes #571) (#572)\n- 🐛 Détecter libsqlite3.so à plat comme en multiarch (closes #560) (#569)\n- 🐛 Refuser une entrée de partage chiffrée, corrompue ou au CRC32 faux (closes #551) (#570)"
 }
