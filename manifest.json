@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.31.0",
-  "derniereVersionCode": 1031000,
+  "derniereVersion": "1.32.0",
+  "derniereVersionCode": 1032000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.31.0/infirlib-1.31.0.apk",
-  "empreinteSha256Apk": "ac14a2e97bf927d861a0b203616724e38e05ff06cd2fcede2e8043836502e116",
-  "changelog": "- ✨ Vider la recherche dès qu'un patient est coché à la création de tournée (closes #573) (#574)\n- 🐛 Refuser un corps de partage sans fin de répertoire ZIP (closes #571) (#572)\n- 🐛 Détecter libsqlite3.so à plat comme en multiarch (closes #560) (#569)\n- 🐛 Refuser une entrée de partage chiffrée, corrompue ou au CRC32 faux (closes #551) (#570)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.32.0/infirlib-1.32.0.apk",
+  "empreinteSha256Apk": "d51c624439029fb5223441b02fa6d823daec0e0b97078ed12ef14a73248382c1",
+  "changelog": "- 🔒️ Envoyer les rapports d'erreur à un Bugsink auto-hébergé en France plutôt qu'à Sentry (#577)\n- 🐛 Réparer le retour au carnet de la capture du menu de E2 (closes #575) (#576)"
 }
