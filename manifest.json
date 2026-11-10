@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.32.0",
-  "derniereVersionCode": 1032000,
+  "derniereVersion": "1.32.1",
+  "derniereVersionCode": 1032001,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.32.0/infirlib-1.32.0.apk",
-  "empreinteSha256Apk": "d51c624439029fb5223441b02fa6d823daec0e0b97078ed12ef14a73248382c1",
-  "changelog": "- 🔒️ Envoyer les rapports d'erreur à un Bugsink auto-hébergé en France plutôt qu'à Sentry (#577)\n- 🐛 Réparer le retour au carnet de la capture du menu de E2 (closes #575) (#576)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.32.1/infirlib-1.32.1.apk",
+  "empreinteSha256Apk": "89a1ff533165b4b7d299035a03b6186c3fd44d97b576bf8efd87288355dbc221",
+  "changelog": "- ⬆️ Passer au Kotlin intégré d'AGP 9 sous Flutter 3.47.9 (closes #419) (#580)\n- 📝 Consigner la mesure sur appareil refaite contre Bugsink (#578)"
 }
