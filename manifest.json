@@ -1,9 +1,9 @@
 {
-  "derniereVersion": "1.32.1",
-  "derniereVersionCode": 1032001,
+  "derniereVersion": "1.33.0",
+  "derniereVersionCode": 1033000,
   "versionMinSupportee": "1.0.0",
   "versionMinSupporteeCode": 1000000,
-  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.32.1/infirlib-1.32.1.apk",
-  "empreinteSha256Apk": "89a1ff533165b4b7d299035a03b6186c3fd44d97b576bf8efd87288355dbc221",
-  "changelog": "- ⬆️ Passer au Kotlin intégré d'AGP 9 sous Flutter 3.47.9 (closes #419) (#580)\n- 📝 Consigner la mesure sur appareil refaite contre Bugsink (#578)"
+  "apkUrl": "https://github.com/Barben360/infirlib-releases/releases/download/v1.33.0/infirlib-1.33.0.apk",
+  "empreinteSha256Apk": "9c999dd8c3efc7b20725855a2028ac072e1f934e747ff8dc203db6b4d4eebadd",
+  "changelog": "- 🔒️ Migrer dans l'application les secrets laissés par flutter_secure_storage 9 et passer à la 11 (closes #581) (#588)\n- ✨ Ajouter « Envoyer une erreur de test » au menu développeur (closes #589) (#591)\n- 💚 Amorcer le cache Gradle des branches neuves par un instantané de main (closes #592) (#593)\n- ⬆️ Monter sentry_flutter en 10, flutter_timezone et mobile_scanner pour retirer trois avertissements KGP (refs #582) (#584)\n- 🔧 Brancher riverpod_lint sur le nouveau système de greffons d'analyse (closes #583) (#585)\n- 💚 Garder l'exécutable Android de Robolectric sur un volume de CI (closes #586) (#587)"
 }
